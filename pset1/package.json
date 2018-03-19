@@ -1,0 +1,21 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.repo"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
